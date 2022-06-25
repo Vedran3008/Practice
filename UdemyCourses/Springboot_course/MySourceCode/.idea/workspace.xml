@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d1df6cb-77e8-4c93-9ac2-ad4427506e45" name="Changes" comment="renamed project">
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/01_spring-demo-one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/01_spring-demo-one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aop-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-aspects-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-beans-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-context-support-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-core-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-core-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-expression-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-instrument-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jcl-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jdbc-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-jms-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-messaging-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-orm-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-oxm-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-test-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-test-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-tx-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-web-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-web-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webflux-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-webmvc-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/lib/spring-websocket-5.3.9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/beanLifeCycle-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/beanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/beanScope-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BeanLifeCylceDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BeanLifeCylceDemoApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BeanScopeDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/BeanScopeDemoApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/CricketCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/FortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/FortuneService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/GymCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/GymCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/HappyFortuneService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyFortuneService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyLoggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/MyLoggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/SetterDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/SetterDemoApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/com/luv2code/springdemo/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/out/production/spring-demo-one/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/out/production/spring-demo-one/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/beanLifeCycle-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/beanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/beanScope-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/BeanLifeCylceDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/BeanLifeCylceDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/GymCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/GymCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/MyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/MyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/MyLoggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/MyLoggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo-one/src/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01_spring-demo-one/src/sport.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B4TAZ6eLSRklzBHCeR8H1Oxjro" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vedran/OneDrive/Desktop/FER/Practice/UdemyCourses/Springboot_course/MySourceCode/01_spring-demo-one",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1df6cb-77e8-4c93-9ac2-ad4427506e45" name="Changes" comment="" />
+      <created>1656164214891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656164214891</updated>
+      <workItem from="1656164216167" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="renamed project" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed project" />
+  </component>
+</project>
