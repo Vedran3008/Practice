@@ -3,10 +3,9 @@ package com.luv2code.springdemo;
 import org.springframework.stereotype.Component;
 
 @Component
-public class HappyFortuneServide implements FortuneService{
-
+public class SadFortuneService  implements FortuneService{
     @Override
     public String getFortune() {
-        return "Today is going to be a good day";
+        return "Today is going to be a sad day";
     }
 }
